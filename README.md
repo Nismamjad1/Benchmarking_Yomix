@@ -1,6 +1,6 @@
 # Code to reproduce Yomix paper figures
 
-## Run main.py on the file of your choice to run cosg, yomix's function to compute signature and scanpy(t-test, wilcoxon)
+### Run main.py on the file of your choice to run cosg, yomix's function to compute signature and scanpy(t-test, wilcoxon)
 
 In a python virtual environment, do:
 
