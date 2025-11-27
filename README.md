@@ -21,15 +21,15 @@ To get run time comparison:
 	python3 time_result.py [filepath]
 	
 
-## List of contributors
+## List of contributors:
 
 Nicolas Perrin-Gilbert
 
 Joshua Waterfall
 
-Pierre Fumeron
+Pierre Fumeron (Main contributor of this repo)
 
-Nisma Amjad
+Nisma Amjad (Main contributor of this repo)
 
 Jason Z. Kim
 
